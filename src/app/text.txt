@@ -1,0 +1,15 @@
+Needed Components For this Project:
+Admin:
+   1. categorys (CRUD);
+   2. Products (CRUD);
+   3. Carts
+   4. Customer
+   5. Orders
+   6.Login
+
+Website:
+   1. categorys
+   2. Products
+   3. Singup | Login 
+   4. Add to Carts
+   5. Cart
