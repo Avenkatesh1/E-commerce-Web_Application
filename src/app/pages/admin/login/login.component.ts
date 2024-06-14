@@ -21,8 +21,9 @@ export class LoginComponent {
   onLogin(){
     if(this.loginObj.userName == "venkat" && this.loginObj.passwored == "143143"){
       this.route.navigateByUrl("/products")
+      alert("User Login Successfully")
     }else{
-      alert("wrong Credentials")
+      alert("In Valid Credentials")
     }
   }
 }
